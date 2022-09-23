@@ -2,7 +2,7 @@ Jacob Drew
 CS 4290
 Project Zero
 
-Version Control: https://github.com/jdrew00/4760-project6
+Version Control: https://github.com/jdrew00/4280-project0.git
 
 Run 'make' command in terminal to excute makefile build script
 Run 'make clen' command in terminal to clean up build files
